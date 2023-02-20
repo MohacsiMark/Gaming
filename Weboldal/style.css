@@ -1,0 +1,14 @@
+body{
+    background-color: yellow;
+}
+
+.kozep{
+    text-align: center;
+    font-size: x-large;
+    color: green;
+}
+
+.d-block{
+    display: block;
+    margin: auto;
+}
