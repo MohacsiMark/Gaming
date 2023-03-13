@@ -1,0 +1,23 @@
+body{
+    background-color: yellow;
+}
+
+.kozep{
+    text-align: center;
+    font-size: x-large;
+    color: green;
+}
+
+.d-block{
+    display: block;
+    margin: auto;
+}
+
+h2{
+    text-align: right;
+    color: red;
+}
+
+li{
+    color: blue;
+}
